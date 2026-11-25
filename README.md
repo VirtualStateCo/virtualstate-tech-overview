@@ -1,2 +1,2 @@
 # virtualstate-tech-overview
-Brief, high-level technicaloverview for VirtualState.
+A brief, high-level technical overview for our platform.
